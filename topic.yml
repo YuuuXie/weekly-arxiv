@@ -1,0 +1,63 @@
+"AI for Astrophysics & Geophysics & Fluid Dynamics":
+# "每周arXiv AI4Science｜天文/地理/流体力学":
+    "Astrophysics":
+        "machine learning":      ["astro-ph.CO", "astro-ph.EP", "astro-ph.GA", "astro-ph.HE", "astro-ph.IM", "astro-ph.SR"]
+        "neural network":        ["astro-ph.CO", "astro-ph.EP", "astro-ph.GA", "astro-ph.HE", "astro-ph.IM", "astro-ph.SR"]
+        "large language model":  ["astro-ph.CO", "astro-ph.EP", "astro-ph.GA", "astro-ph.HE", "astro-ph.IM", "astro-ph.SR"]
+    "Geophysics":
+        "geophysics":            ["cs.AI", "cs.LG"]
+        "machine learning":      ["physics.geo-ph"]
+        "large language model":  ["physics.geo-ph"]
+    "Fluid Dynamics":
+        "fluid dynamics":        ["cs.AI", "cs.LG"]
+        "navier stokes":         ["cs.AI", "cs.LG"]
+        "machine learning":      ["physics.flu-dyn"]
+        "large language model":  ["physics.flu-dyn"]
+    "Title": "每周arXiv｜AI for 天文/地理/流体力学 (2024.1.1-1.13)"
+
+"AI for Other Computational Topics":
+# "AI for 其他计算方法":
+    "Equivariance":
+        "equivariant":         ["cs.AI", "cs.LG", "cond-mat.mtrl-sci", "cond-mat.soft", "cond-mat.supr-con", "cond-mat.stat-mech"]
+    "Bayesian methods & Uncertainty quantification":
+        "gaussian process":    ["cs.AI", "cs.LG", "cond-mat.mtrl-sci", "cond-mat.soft", "cond-mat.supr-con", "cond-mat.stat-mech"]
+        "uncertainty quantification": ["cs.AI", "cs.LG", "cond-mat.mtrl-sci", "cond-mat.soft", "cond-mat.supr-con", "cond-mat.stat-mech"]
+    "Active Learning":
+        "active learning":     ["cs.AI", "cs.LG", "cond-mat.mtrl-sci", "cond-mat.soft", "cond-mat.supr-con", "cond-mat.stat-mech"]
+    "Other methods":
+        "machine learning":    ["physics.comp-ph", "physics.data-an", "cond-mat.dis-nn"]
+    "Title": "每周arXiv｜AI for 其他计算方法 (2024.1.1-1.13)"
+
+"AI for Chemistry & Biology":
+# "AI for 化学/生物/医学":
+    "Chemistry":
+        "catalysis":             ["cs.AI", "cs.LG"]
+        "chemical reaction":     ["cs.AI", "cs.LG"]
+        "collective variable":   ["cs.AI", "cs.LG"]
+        "machine learning":      ["physics.chem-ph"]
+        "large language model":  ["physics.chem-ph"]
+    "Biology & Medical physics":
+        "protein":               ["cs.AI", "cs.LG", "q-bio.BM"]
+        "drug":                  ["cs.AI", "cs.LG", "q-bio.BM"]
+        "machine learning":      ["physics.bio-ph", "physics.med-ph", "q-bio.BM"]
+        "large language model":  ["physics.bio-ph", "physics.med-ph", "q-bio.BM"]
+    "Title": "每周arXiv｜AI for 化学/生物 (2024.1.1-1.13)"
+
+"AI for Condensed Matter":
+# "AI for 凝聚态/材料":
+    "Molecular dynamics":
+        "molecular dynamics":    ["cond-mat.mtrl-sci", "cond-mat.soft", "cs.AI", "cs.LG"]
+    "Interatomic potentials & Force fields":
+        "interatomic potential": ["cond-mat.mtrl-sci", "cond-mat.soft", "cs.AI", "cs.LG"]
+        "force field":           ["cond-mat.mtrl-sci", "cond-mat.soft", "cs.AI", "cs.LG"]
+    "Coarse graining":
+        "coarse grain":          ["cond-mat.mtrl-sci", "cond-mat.soft", "cs.AI", "cs.LG"]
+    "First-principle methods":
+        "density functional":    ["cond-mat.mtrl-sci", "cond-mat.soft", "cs.AI", "cs.LG"]
+        "quantum monte carlo":    ["cond-mat.mtrl-sci", "cond-mat.soft", "cs.AI", "cs.LG"]
+    "Other ML methods":
+        "large language model":  ["cond-mat.mtrl-sci", "cond-mat.soft", "cond-mat.supr-con", "cond-mat.stat-mech"]
+        "diffusion model":       ["cond-mat.mtrl-sci", "cond-mat.soft", "cond-mat.supr-con", "cond-mat.stat-mech"]
+        "machine learning":      ["cond-mat.mtrl-sci", "cond-mat.soft", "cond-mat.supr-con", "cond-mat.stat-mech"]
+        "graph":                 ["cond-mat.mtrl-sci", "cond-mat.soft", "cond-mat.supr-con", "cond-mat.stat-mech"]
+    "Title": "每周arXiv｜AI for 凝聚态/材料 (2024.1.1-1.13)"
