@@ -26,9 +26,7 @@ def get_daily_papers(topic: str, query: str = "slam", max_results=2, cat=None, d
 
     while True:
         try:
-            print("search_results", search_results)
             for result in search_results:
-                print("result", result)
         
                 paper_id = result.get_short_id()
                 paper_title = result.title
@@ -86,13 +84,16 @@ for d in range(weekday):
     date_range.append(pastday)
 
 print(date_range)
+date_fmt = lambda d: f"{d.year}.{d.month}.{d.day}"
 
 with open("topic.yml", "r") as stream:
     dct = yaml.safe_load(stream)
 
 for topic in dct.keys():
     print("******************", topic, "*********************")
-    print(dct[topic]["Title"])
+    section_title = dct[topic]["Title"]
+    date_str = f"({date_fmt(date_range[-1])}-{date_fmt(date_range[0])})"
+    print(section_title, date_str)
     collected_paper_keys = []
     with open(topic + ".txt", "w") as f:
         for subtitle in dct[topic].keys():

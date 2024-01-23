@@ -13,7 +13,7 @@
         "navier stokes":         ["cs.AI", "cs.LG"]
         "machine learning":      ["physics.flu-dyn"]
         "large language model":  ["physics.flu-dyn"]
-    "Title": "每周arXiv｜AI for 天文/地理/流体力学 (2024.1.1-1.13)"
+    "Title": "每周arXiv｜AI for 天文/地理/流体力学"
 
 "AI for Other Computational Topics":
 # "AI for 其他计算方法":
@@ -26,7 +26,7 @@
         "active learning":     ["cs.AI", "cs.LG", "cond-mat.mtrl-sci", "cond-mat.soft", "cond-mat.supr-con", "cond-mat.stat-mech"]
     "Other methods":
         "machine learning":    ["physics.comp-ph", "physics.data-an", "cond-mat.dis-nn"]
-    "Title": "每周arXiv｜AI for 其他计算方法 (2024.1.1-1.13)"
+    "Title": "每周arXiv｜AI for 其他计算方法"
 
 "AI for Chemistry & Biology":
 # "AI for 化学/生物/医学":
@@ -41,7 +41,7 @@
         "drug":                  ["cs.AI", "cs.LG", "q-bio.BM"]
         "machine learning":      ["physics.bio-ph", "physics.med-ph", "q-bio.BM"]
         "large language model":  ["physics.bio-ph", "physics.med-ph", "q-bio.BM"]
-    "Title": "每周arXiv｜AI for 化学/生物 (2024.1.1-1.13)"
+    "Title": "每周arXiv｜AI for 化学/生物"
 
 "AI for Condensed Matter":
 # "AI for 凝聚态/材料":
@@ -60,4 +60,4 @@
         "diffusion model":       ["cond-mat.mtrl-sci", "cond-mat.soft", "cond-mat.supr-con", "cond-mat.stat-mech"]
         "machine learning":      ["cond-mat.mtrl-sci", "cond-mat.soft", "cond-mat.supr-con", "cond-mat.stat-mech"]
         "graph":                 ["cond-mat.mtrl-sci", "cond-mat.soft", "cond-mat.supr-con", "cond-mat.stat-mech"]
-    "Title": "每周arXiv｜AI for 凝聚态/材料 (2024.1.1-1.13)"
+    "Title": "每周arXiv｜AI for 凝聚态/材料"
